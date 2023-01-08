@@ -27,7 +27,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "**Wajahat Ali Khan** <br> Machine Learning Engineer"
+    "**Hasan Shabbir** <br>"
    ]
   },
   {
